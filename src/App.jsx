@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ClicktoAdd from "../components/clickToAdd";
+import ClicktoAdd from "../components/ToAdd";
 import RenderItem from "../components/renderItem";
 import Selector from "../components/select";
 
